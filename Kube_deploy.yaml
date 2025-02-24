@@ -23,7 +23,7 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  name: banking_np
+  name: bankingnp
   labels:
     app: capstone_app
 spec:
