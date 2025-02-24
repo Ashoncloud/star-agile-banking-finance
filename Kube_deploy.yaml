@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: container-mvn-container
-        image: ashdoc123/Banking-eta-app:latest
+        image: ashdoc123/banking-eta-app:latest
         ports:
         - containerPort: 8081
 ---
